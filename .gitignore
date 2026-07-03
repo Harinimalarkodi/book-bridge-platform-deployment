@@ -1,0 +1,12 @@
+# Environment variables (contains the Gemini API key)
+.env
+
+# ChromaDB local vector store data
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
